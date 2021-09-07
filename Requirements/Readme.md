@@ -4,5 +4,26 @@ In this system, people have been in an organization. Those who participate in th
 
 There has a number of election observers who have suggested introducing electronic voting election processes. A general observation is that as more business is done using electronic mediums. It should not be difficult to carry out voting using electronic equipment. Rather than turning up at the polling place on voting day to use paper and pen
 # <h2> SWOT Analysis
-  [](C:\Users\gaura\Downloads)
+  **Strengths**<br/>
+1.Rapid vote count<br/>
+2.Accuracy at result<br/>
+3.Long term cost savings<br/>
+4.Redundancy at human intervention<br/>
+  **Weakness**<br/>
+ 1.Lack of transparent policy<br/>
+2.Gap in experience, knowledge for non experts<br/>
+3.Infrastructure and environmental                                 
+ requirements(power supply etc)<br/>
+  **Opportunities**<br/>
+1. Increased convenience for voters<br/>
+2. More focused at technology innovation<br/>
+3. No shipping costs for clients/voters so no<br/>
+ delay in sending out material and receive back<br/>
+  **Threats**<br/>
+1.Privilege escalation by insiders<br/>
+2.Security Requirements for protection are at
+transport, storage.<br/>
+3.Possibility of fraud through manipulation by 
+small group of insiders<br/>
+
   
