@@ -1,3 +1,4 @@
+#  <h1> Introduction
 Mini voting system using C 
 In this system, people have been in an organization. Those who participate in the election can give his\her vote online without going to any physical polling station. There is a database is maintain in which all the names of voters with complete information are store.
 
