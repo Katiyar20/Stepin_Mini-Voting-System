@@ -1,4 +1,4 @@
-Test Plan 
-Test Case | Description | Exp I/P | Exp O/P | Actual O/P
-----------|-------------|---------|---------|-----------
-
+Test Cases
+| Test Case| Description| Ex i/p| Output| Status|
+|----------|------------|-------|-------|-------|
+|Login|Enter wrong Username|Admin|Wrong username or password|Fail|
