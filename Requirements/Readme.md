@@ -25,5 +25,16 @@ There has a number of election observers who have suggested introducing electron
 transport, storage.<br/>
 3.Possibility of fraud through manipulation by 
 small group of insiders<br/>
+# <h3> High Level Requirement
+ User shall be able to login<br/>	
+	User shall be able to choose the candidtae whom to vote<br/>
+	User shall be able to caste the vote<br/>	
+ User shall be able to save records in a file<br/>
+	Data should not be lost in case of faliure	Scenario<br/>
+	Data should always be stored when closing the system<br/>
+ # <h4> Low Level Requirement
+ User shall be able to save the data 
+ User shall be able to see the previous data<br/> 
+ User shall be able to work on previous data<br/>
 
   
