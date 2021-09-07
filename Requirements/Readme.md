@@ -14,12 +14,12 @@ There has a number of election observers who have suggested introducing electron
 2.Gap in experience, knowledge for non experts<br/>
 3.Infrastructure and environmental                                 
  requirements(power supply etc)<br/>
-  **Opportunities**<br/>
+ **Opportunities**<br/>
 1. Increased convenience for voters<br/>
 2. More focused at technology innovation<br/>
 3. No shipping costs for clients/voters so no<br/>
  delay in sending out material and receive back<br/>
-  **Threats**<br/>
+ **Threats**<br/>
 1.Privilege escalation by insiders<br/>
 2.Security Requirements for protection are at
 transport, storage.<br/>
