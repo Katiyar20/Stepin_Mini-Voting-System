@@ -16,4 +16,4 @@ jobs:
     - name: build
       run: gcc main.c -o main.exe
     - name: Run
-      run: .\hello.exe
+      run: .\main.exe
