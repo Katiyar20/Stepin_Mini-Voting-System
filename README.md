@@ -6,6 +6,6 @@ Mini voting system using C<br/>
 
 <a href="https://frontend.code-inspector.com/public/user/github/Katiyar20">
    <img src="https://code-inspector.com/public/badge/user/github/Katiyar20?style=light" alt="code inspector badge" />
-</a>
+</a><br/>
 There are two pannels<br/> 1.student pannel<br/> 2.Admin pannel<br/>
 For Admin Panel Username: "Admin" Password: "admiN"
