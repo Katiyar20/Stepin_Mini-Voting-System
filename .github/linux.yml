@@ -13,6 +13,7 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: make all
-      run: make Implementation
- 
+    - name: build
+      run: gcc main.c -o main.exe
+    - name: Run
+      run: .\hello.exe
